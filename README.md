@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data
 <img width="570" height="351" alt="image" src="https://github.com/user-attachments/assets/f8536185-dcae-440d-aeee-4ad1fc1d0639" />
 </p>
 
-2 - ** Revenue gap - Customer Segments: ** - 
+2 - **Revenue gap - Customer Segments:** - 
 High-Value vs At-Risk customers: Median basket size is identical (8 items per order). 
 Key difference = order frequency
   - High-Value: every 7 days
@@ -46,7 +46,7 @@ Key difference = order frequency
 <img width="601" height="271" alt="image" src="https://github.com/user-attachments/assets/857b880a-3046-4f70-ac60-4018d3225988" />
 </p>
 
-3- ** Category Leakage -  At-Risk Customers: **
+3- **Category Leakage -  At-Risk Customers:**
 Weakest repeat category: Personal Care. Only 28.6% of at-risk customers who purchased Personal Care in Order 1 reordered from the category by Order 3 — the lowest repeat rate among high-volume departments. These are consumable products expected to drive repeat purchases. Low reorder rates means that Instacart is losing this revenue to its competitors.
 <p align="center">
 <img width="554" height="333" alt="image" src="https://github.com/user-attachments/assets/ce10098f-5629-4a42-9931-d859a5738504" />
