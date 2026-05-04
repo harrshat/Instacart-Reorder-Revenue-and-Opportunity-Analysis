@@ -1,7 +1,7 @@
 # 🛒 Instacart Reorder Revenue & Opportunity Analysis
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Instacart_logo_and_wordmark.svg" width="300"/>
+<img width="557" height="83" alt="image" src="https://github.com/user-attachments/assets/2087b505-c859-49ce-a33b-be77ae9a79f6" />
 </p>
 
 ## 📌 About Instacart
