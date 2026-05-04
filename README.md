@@ -1,4 +1,4 @@
-\t\t\t <img width="714" height="130" alt="image" src="https://github.com/user-attachments/assets/90234afa-2b52-435b-98a1-aeb9c870a3ef" />
+<img width="840" height="600" alt="image" src="https://github.com/user-attachments/assets/e282b3db-4dad-42d2-90c2-fa031da12612" />
 
 About: 
 Instacart is a grocery delivery marketplace. Its revenue model depends on order frequency — the more often customers reorder, the more Instacart earns per customer over time. 
