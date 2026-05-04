@@ -17,10 +17,10 @@ Amongst those who do reorder, a meaningful portion go quiet after a few orders. 
 https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data 
 
 ## 🗃️ Data Description
-• orders.csv — One row per order. Contains user_id, order_number (1st, 2nd, 3rd order, etc.), order_dow (day of week), order_hour_of_day, and days_since_prior_order.
-• order_products__prior.csv — One row per product per order, for all orders in a user’s history. Contains order_id, product_id, add_to_cart_order, and reordered (1 if the product was in a previous order).
-• products.csv — Product names and their department and aisle IDs.
-• departments.csv — Maps department_id to department name (e.g., produce, dairy eggs, beverages).
+- orders.csv — One row per order. Contains user_id, order_number (1st, 2nd, 3rd order, etc.), order_dow (day of week), order_hour_of_day, and days_since_prior_order.
+- order_products__prior.csv — One row per product per order, for all orders in a user’s history. Contains order_id, product_id, add_to_cart_order, and reordered (1 if the product was in a previous order).
+- products.csv — Product names and their department and aisle IDs.
+- departments.csv — Maps department_id to department name (e.g., produce, dairy eggs, beverages).
 
 
 
