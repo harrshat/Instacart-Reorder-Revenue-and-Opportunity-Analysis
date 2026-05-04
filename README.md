@@ -1,4 +1,5 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6795c4a5-cc6e-4edb-ae5b-b5acb32d0a40" />
+[<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6795c4a5-cc6e-4edb-ae5b-b5acb32d0a40" />
+](https://gdusa.com/instacart-logo-points-to-future/)
 
 About: 
 Instacart is a grocery delivery marketplace. Its revenue model depends on order frequency — the more often customers reorder, the more Instacart earns per customer over time. 
