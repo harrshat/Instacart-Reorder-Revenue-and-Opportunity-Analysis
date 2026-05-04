@@ -19,7 +19,7 @@ Identify where customers drop off in the reorder journey and how high-value cust
 ## Link to the dataset:
 https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data 
 
-**Dataset constraint:** Because the dataset only includes prior order history, repeat behavior can be reliably measured starting from Order 3 onward.
+**Dataset constraint:** In this dataset, the number of unique users remains same from Orders 1–3, and customer drop-off is visible from Order 4 and boyond. This is a dataset limitation instead of real-world behavior where early churn after the first or second order is typically much higher. Hence, the analysis focuses on the earliest point where churn becomes observable in the data.
 
 ## 🗃️ Data Description
 - orders.csv — One row per order. Contains user_id, order_number (1st, 2nd, 3rd order, etc.), order_dow (day of week), order_hour_of_day, and days_since_prior_order.
