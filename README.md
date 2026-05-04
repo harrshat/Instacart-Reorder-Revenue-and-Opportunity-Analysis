@@ -57,8 +57,9 @@ Flag customers whose days_since_prior_order exceeds the median (7 days for High-
 
 Priority departments: Personal Care (lowest absolute reorder rate, 28.6%) and Alcohol (largest gap vs High-Value, 15 percentage points).
 
-📊 Executive presentation: This analysis was translated into a stakeholder-ready deck summarising the opportunity, insights, and proposed action.
-Link: https://github.com/harrshat/Instacart-Reorder-Revenue-and-Opportunity-Analysis/blob/main/Instacart%20-%20Reorder%20%26%20Revenue%20and%20Opportunity%20Analysis.pdf
+## 📊 Executive presentation: 
+This analysis was translated into a stakeholder-ready deck summarising the opportunity, insights, and proposed action.
+**Link:** https://github.com/harrshat/Instacart-Reorder-Revenue-and-Opportunity-Analysis/blob/main/Instacart%20-%20Reorder%20%26%20Revenue%20and%20Opportunity%20Analysis.pdf
 
 
 
